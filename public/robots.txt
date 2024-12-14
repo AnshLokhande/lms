@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.learningdestiny.in
+
+# Sitemaps
+Sitemap: https://www.learningdestiny.in/sitemap.xml

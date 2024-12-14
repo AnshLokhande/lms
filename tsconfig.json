@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "noEmit": true,
+    "incremental": true,
+    "module": "esnext",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "strictNullChecks": true
+  },
+  "include": [
+    "next-env.d.ts",
+    ".next/types/**/*.ts",
+    "**/*.ts",
+    "**/*.tsx"
+, "src/app/adminDetail/eventdetail/page.jsx", "src/app/adminDetail/manage-eventdetail/page.js", "src/app/admin/manage-events/manage-workshops/manageintenship/manage-courses/page.jsx", "src/app/api/internships/route.js", "src/app/api/internships/route.js", "src/Pages/api/internships.js"  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
